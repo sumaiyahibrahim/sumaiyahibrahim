@@ -72,6 +72,12 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 
 ---
 
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyahibrahim&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -80,14 +86,6 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 
 ---
 
-### ⚡ Fun Facts
-
-- I love designing **as much as** coding
-- Obsessed with making things **look clean, smooth, and animated**
-- I believe in **progress > perfection**
-- Secret Skill: Making boring UIs **look beautiful**
-
----
 
 ### ☕ Let’s Connect
 
@@ -96,7 +94,3 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 - **Portfolio:** [My Portfolio](https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
