@@ -74,7 +74,7 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyahibrahim&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
----
+
 
 ### 🏆 GitHub Trophies
 
