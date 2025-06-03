@@ -70,9 +70,7 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyahibrahim&layout=compact&theme=radical" height="170"/>
 </p>
 
----
 
----
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyahibrahim&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
