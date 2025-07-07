@@ -40,18 +40,9 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 
 ### 🚀 What I'm Building
 
-- **Frontend Projects** with modern tools and best practices
-- **AI/ML Models** in Python with scikit-learn, pandas, Jupyter
-- Real-world tools that merge **intelligence + interactivity**
-
----
-
-### 🧠 Currently Learning
-
-- **Machine Learning** (Python, scikit-learn, pandas)
-- **Frontend Dev** (HTML, CSS, JS, Bootstrap)
-- **Problem Solving** on LeetCode
-- Exploring **AI-powered apps** with creative UIs
+- Real-world web apps using **Node.js**, **Express**, **Axios**, **EJS**, and **Public APIs**
+- Frontend projects with **HTML**, **CSS**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **jQuery**, and **DOM**
+- Tools that combine **interactivity + intelligence**, focused on clean UI and real user value
 
 ---
 
