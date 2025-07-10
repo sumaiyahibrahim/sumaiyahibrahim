@@ -2,7 +2,7 @@
   Hi, I'm <span style="color:#2F80ED;">Sumaiyah Ibrahim</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-
+ 
 <h3 align="center"><i>Frontend Developer • Aspiring AI/ML Engineer • Problem Solver</i></h3>
  
 <p align="center">
