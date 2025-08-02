@@ -6,7 +6,7 @@
 <h3 align="center"><i>Frontend Developer • Aspiring AI/ML Engineer • Problem Solver</i></h3>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+love+bringing+ideas+to+life+with+code+%F0%9F%92%BB;Making+machines+smarter+%F0%9F%A7%A0+one+line+at+a+time!;Designing+%2B+Developing+beautiful+web+experiences!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+love+bringing+ideas+to+life+with+code+%F0%9F%92%BB;Making+machines+smarter+%F0%9F%A7%A0+one+line+at+a+time!;Designing+%2B+Developing+beautiful+web+experiences!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
