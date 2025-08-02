@@ -59,12 +59,9 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 ### 🍜 CodeChef
 [![CodeChef](https://img.shields.io/badge/CodeChef-tiny__flare__88-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/tiny_flare_88)
 
-> ⭐ Note: CodeChef does not support live stat cards. Click the badge to view your latest profile.
 
 ### 📗 GeeksforGeeks
 [![GFG](https://img.shields.io/badge/GFG-sumaiyahijnvn-28a745?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sumaiyahijnvn/)
-
-> 📊 GeeksforGeeks does not support public APIs or stat badges. Visit the link to see your profile.
 
 
 ---
