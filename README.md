@@ -51,11 +51,21 @@ I turn ideas into interactive, intelligent, and intuitive web experiences.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-## 🚀 Coding Profiles
+## 🚀 Coding Profiles & Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-RYS4F5qzcp-orange?logo=leetcode)](https://leetcode.com/RYS4F5qzcp)
-[![CodeChef](https://img.shields.io/badge/CodeChef-tiny__flare__88-brightgreen?logo=codechef)](https://www.codechef.com/users/tiny_flare_88)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-sumaiyahijnvn-success?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sumaiyahijnvn/)
+### 🔶 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/RYS4F5qzcp?ext=contest)](https://leetcode.com/RYS4F5qzcp)
+
+### 🍜 CodeChef
+[![CodeChef](https://img.shields.io/badge/CodeChef-tiny__flare__88-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/tiny_flare_88)
+
+> ⭐ Note: CodeChef does not support live stat cards. Click the badge to view your latest profile.
+
+### 📗 GeeksforGeeks
+[![GFG](https://img.shields.io/badge/GFG-sumaiyahijnvn-28a745?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sumaiyahijnvn/)
+
+> 📊 GeeksforGeeks does not support public APIs or stat badges. Visit the link to see your profile.
+
 
 ---
 
