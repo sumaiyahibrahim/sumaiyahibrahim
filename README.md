@@ -52,7 +52,7 @@ I build intelligent, user-centric solutions that balance clean design with real 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,canva" />
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,jquery,ejs,npm,nodemon" />
-  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun" />
+  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,ejs" />
 </p>
 
 ---
