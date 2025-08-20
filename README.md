@@ -50,9 +50,23 @@ I build intelligent, user-centric solutions that balance clean design with real 
 ## 🧰 Tech Stack
 
 <p align="center">
+  <!-- Web & UI -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+
+  <!-- Programming & Backend -->
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,npm,nodemon" />
+  <img src="https://skillicons.dev/icons?i=jquery,ejs" />
+
+  <!-- Tools & Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun" />
+</p>
+
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,canva" />
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,jquery,ejs,npm,nodemon" />
-  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,ejs" />
+  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun," />
 </p>
 
 ---
