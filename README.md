@@ -5,7 +5,7 @@
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Designing+intelligent+interfaces.;Building+secure+and+scalable+systems.;Bringing+ideas+to+life+with+code." alt="Typing animation" />  
 </p>
-
+ 
 <p align="center">
   <a href="mailto:sumaiyahibrahim15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="38" />  
