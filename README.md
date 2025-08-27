@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <span style="color:#2F80ED;">Sumaiyah Ibrahim</span></h1>
 
-<h3 align="center"><i>Frontend Developer · Aspiring AI/ML Engineer </i></h3>
+<h3 align="center"><i>Frontend Developer · Aspiring AI/ML Engineer </i></h3> 
 
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Designing+intelligent+interfaces.;Building+secure+and+scalable+systems.;Bringing+ideas+to+life+with+code." alt="Typing animation" />  
