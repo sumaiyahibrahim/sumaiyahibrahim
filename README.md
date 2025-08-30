@@ -8,7 +8,7 @@
  
 <p align="center">
   <a href="mailto:sumaiyahibrahim15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" />  
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
   </a>
   <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
@@ -19,7 +19,15 @@
   <a href="https://sumaiyahibrahim.github.io/Sumaiyah-portfolio" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="38" />
   </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=streamlit" height="38" />
+  </a>
+  <a href="https://www.gradio.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gradio" height="38" />
+  </a>
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumaiyahibrahim&label=Profile+Views&color=blueviolet&style=flat" />
