@@ -66,18 +66,41 @@ I build intelligent, user-centric solutions that balance clean design with real 
 </p>
 
 ---
+## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/streamlit.svg" width="40" alt="Streamlit" />
-  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/gradio.svg" width="40" alt="Gradio" />
-  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/ollama.svg" width="40" alt="Ollama" />
-</div>
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="40" height="40"/>
+  
+  <!-- Extra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
 
-
-
-
-
-
+  <!-- New Icons -->
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/openai/ollama/main/docs/ollama.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/gradio.png" width="40" height="40"/>
+</p>
 
 ---
 
