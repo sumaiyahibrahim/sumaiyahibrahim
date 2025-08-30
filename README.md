@@ -19,12 +19,6 @@
   <a href="https://sumaiyahibrahim.github.io/Sumaiyah-portfolio" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="38" />
   </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=streamlit" height="38" />
-  </a>
-  <a href="https://www.gradio.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gradio" height="38" />
-  </a>
 </p>
 
 
@@ -57,6 +51,8 @@ I build intelligent, user-centric solutions that balance clean design with real 
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
   <!-- Web & UI -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
@@ -66,9 +62,11 @@ I build intelligent, user-centric solutions that balance clean design with real 
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,npm,nodemon" />
   <img src="https://skillicons.dev/icons?i=jquery,ejs" />
 
-  <!-- Tools & Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun" />
+  <!-- Tools, Databases & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,streamlit,gradio" />
 </p>
+
+
 
 ---
 
