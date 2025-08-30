@@ -62,8 +62,9 @@ I build intelligent, user-centric solutions that balance clean design with real 
 
   <!-- Tools, Databases & Frameworks -->
   <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,streamlit,gradio" />
-
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/jupyter.svg" width="40" alt="JupyterLab" />
 </p>
+
 
 ---
 
