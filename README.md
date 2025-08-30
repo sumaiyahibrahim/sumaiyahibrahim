@@ -51,8 +51,6 @@ I build intelligent, user-centric solutions that balance clean design with real 
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 <p align="center">
   <!-- Web & UI -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
@@ -64,6 +62,14 @@ I build intelligent, user-centric solutions that balance clean design with real 
 
   <!-- Tools, Databases & Frameworks -->
   <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,streamlit,gradio" />
+
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-3E8EDE?logo=gradio&logoColor=white&style=for-the-badge)](https://www.gradio.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)](https://streamlit.io/)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge)](https://openrouter.ai/)
+[![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge)](https://console.groq.com/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/)
+
 </p>
 
 
