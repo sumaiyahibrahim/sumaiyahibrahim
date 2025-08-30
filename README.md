@@ -70,6 +70,32 @@ I build intelligent, user-centric solutions that balance clean design with real 
 [![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge)](https://console.groq.com/)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/)
 
+
+
+<p align="center">
+  <!-- Web & UI -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+
+  <!-- Programming & Backend -->
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,npm,nodemon" />
+  <img src="https://skillicons.dev/icons?i=jquery,ejs" />
+
+  <!-- Tools, Databases & Platforms -->
+  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun" />
+</p>
+
+<p align="center">
+  <!-- Extra Tools via Badges -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.gradio.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Gradio-3E8EDE?logo=gradio&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+
 </p>
 
 
