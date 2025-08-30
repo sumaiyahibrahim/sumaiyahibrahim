@@ -63,40 +63,21 @@ I build intelligent, user-centric solutions that balance clean design with real 
   <!-- Tools, Databases & Frameworks -->
   <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun,streamlit,gradio" />
 
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-3E8EDE?logo=gradio&logoColor=white&style=for-the-badge)](https://www.gradio.app/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)](https://streamlit.io/)
-[![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge)](https://openrouter.ai/)
-[![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge)](https://console.groq.com/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/)
-
-
-
-<p align="center">
-  <!-- Web & UI -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
-
-  <!-- Programming & Backend -->
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,npm,nodemon" />
-  <img src="https://skillicons.dev/icons?i=jquery,ejs" />
-
-  <!-- Tools, Databases & Platforms -->
-  <img src="https://skillicons.dev/icons?i=postgres,postman,jwt,git,github,notion,bun" />
 </p>
 
-<p align="center">
-  <!-- Extra Tools via Badges -->
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.gradio.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Gradio-3E8EDE?logo=gradio&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+---
+<!-- Add this once in your README -->
+<script src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/dist/index.min.js"></script>
+
+<!-- Then use icons like this -->
+<span data-ts-icon="streamlit" style="width:40px;height:40px;"></span>
+<span data-ts-icon="gradio" style="width:40px;height:40px;"></span>
+<span data-ts-icon="ollama" style="width:40px;height:40px;"></span>
+<span data-ts-icon="python" style="width:40px;height:40px;"></span>
+<span data-ts-icon="github" style="width:40px;height:40px;"></span>
 
 
-</p>
+
 
 
 
