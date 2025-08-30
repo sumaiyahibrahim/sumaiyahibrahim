@@ -66,15 +66,13 @@ I build intelligent, user-centric solutions that balance clean design with real 
 </p>
 
 ---
-<!-- Add this once in your README -->
-<script src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/dist/index.min.js"></script>
 
-<!-- Then use icons like this -->
-<span data-ts-icon="streamlit" style="width:40px;height:40px;"></span>
-<span data-ts-icon="gradio" style="width:40px;height:40px;"></span>
-<span data-ts-icon="ollama" style="width:40px;height:40px;"></span>
-<span data-ts-icon="python" style="width:40px;height:40px;"></span>
-<span data-ts-icon="github" style="width:40px;height:40px;"></span>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/streamlit.svg" width="40" alt="Streamlit" />
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/gradio.svg" width="40" alt="Gradio" />
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons@3.3.2/icons/ollama.svg" width="40" alt="Ollama" />
+</div>
+
 
 
 
