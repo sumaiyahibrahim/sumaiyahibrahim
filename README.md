@@ -95,10 +95,15 @@ I build intelligent, user-centric solutions that balance clean design with real 
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="40" height="40" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
 
-  <!-- New: Streamlit / Ollama / Gradio -->
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/streamlit.svg" width="40" height="40"/>
-  <img src="https://github.com/ollama/ollama/raw/main/docs/ollama.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/gradio.png" width="40" height="40"/>
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark.svg" width="40" height="40" alt="Streamlit"/>
+
+  <!-- Gradio -->
+  <img src="https://lobe.ai/images/brands/gradio.svg" width="40" height="40" alt="Gradio"/>
+
+  <!-- Ollama -->
+  <img src="https://logo.svgcdn.com/l/ollama-dark.svg" width="40" height="40" alt="Ollama"/>
+
 
 </p>
 
