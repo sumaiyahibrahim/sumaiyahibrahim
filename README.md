@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#2F80ED;">Sumaiyah Ibrahim</span></h1>
-
+ 
 <h3 align="center"><i>Frontend Developer · Aspiring AI/ML Engineer </i></h3> 
 
 <p align="center">   
