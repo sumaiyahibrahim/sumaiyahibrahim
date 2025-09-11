@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
   </a>
-  <a href="https://github.com/sumaiyahibrahim" target="_blank">
+  <a href="https://github.com/sumaiyahibrahim" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=github" height="38" />
   </a>
   <a href="https://sumaiyahibrahim.github.io/Sumaiyah-portfolio" target="_blank">
