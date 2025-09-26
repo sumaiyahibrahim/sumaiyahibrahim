@@ -16,7 +16,7 @@
   <a href="https://github.com/sumaiyahibrahim" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=github" height="38" />
   </a>
-  <a href="https://sumaiyahibrahim.github.io/Sumaiyah-portfolio" target="_blank">
+  <a href="https://sumaiyahibrahim.github.io/Sumaiyah-Portfolio/index.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="38" />
   </a>
 </p>
@@ -90,6 +90,6 @@ I build intelligent, user-centric solutions that balance clean design with real 
 
 - **Email:** [sumaiyahibrahim15@gmail.com](mailto:sumaiyahibrahim15@gmail.com)  
 - **LinkedIn:** [Sumaiyah Ibrahim](https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284)  
-- **Portfolio:** [click here](https://sumaiyahibrahim.github.io/Sumaiyah-portfolio)
+- **Portfolio:** [click here](https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html)
 
 ---
